@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_hero_sections",
+  "info": {
+    "displayName": "HeroSection"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Message": {
+      "type": "text"
+    }
+  }
+}
