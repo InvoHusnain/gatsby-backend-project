@@ -14,7 +14,7 @@ module.exports = {
         const data = await strapi.entityService.findMany(
           "api::product.product",
           {
-            fields: ["id", "Title"],
+            fields: ["Title", "Description"],
           }
         );
         // const data = await strapi
